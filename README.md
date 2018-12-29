@@ -2,11 +2,11 @@
 
 ## Github repo
 
-	[https://github.com/alibaba/anyproxy](https://github.com/alibaba/anyproxy)
+[https://github.com/alibaba/anyproxy](https://github.com/alibaba/anyproxy)
 
 ## Home page
 
-	[http://anyproxy.io/](http://anyproxy.io/)
+[http://anyproxy.io/](http://anyproxy.io/)
 
 ## Docker build
 
